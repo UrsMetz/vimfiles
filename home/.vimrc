@@ -24,3 +24,5 @@ let g:Tex_Env_frame="\\begin{frame}{<++>}\<CR><++>\<CR>\\end{frame}"
 
 let mapleader = "\<Space>"
 map! jk <ESC>
+" always show status line
+set laststatus=2
