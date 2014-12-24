@@ -1,7 +1,6 @@
 execute pathogen#infect()
 
 set tabstop=4
-set shiftwidth=4
 set so=4
 set smartindent
 set autoindent
